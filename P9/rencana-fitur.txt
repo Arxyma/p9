@@ -1,7 +1,3 @@
 tambah stok barang
 hapus stok barang
 ubah stok barang
-
-tambah harga barang
-hapus harga barang
-ubah harga barang

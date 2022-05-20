@@ -5,3 +5,5 @@ ubah stok barang
 tambah harga barang
 hapus harga barang
 ubah harga barang
+
+sementara fitur 2
